@@ -14,4 +14,4 @@ Download the files as a .ZIP package
 
 export and open the folder in your IDE of choice
 
-run the home.html in a local browser window
+run the WNChatBot_New.java file and input in the terminal.
