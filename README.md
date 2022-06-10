@@ -1,4 +1,4 @@
-__# BFSWordnet
+BFSWordnet
 A Breadth-First Search algorithm that searches a Wordnet of hypernyms and determines their definitions and connections.
 
 The BFS Wordnet is a standard computer science project that utilizes the BFS algorithm to search a large dataset of hypernyms and their definitions. 
